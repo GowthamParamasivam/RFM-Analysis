@@ -1,2 +1,2 @@
 # RFM-Analysis
-RFM Analysis using DB scripts Oracle
+Sample RFM Analysis using DB scripts Oracle
